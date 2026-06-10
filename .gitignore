@@ -1,2 +1,5 @@
+rksdk_override.conf
 templateconf.cfg
+conf-summary.txt
+conf-notes.txt
 local.conf

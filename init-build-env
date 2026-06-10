@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# OE Build Environment Setup Wrapper Script
+
+export OEROOT="$PWD/layers/openembedded-core"
+. "$OEROOT/oe-init-build-env"
